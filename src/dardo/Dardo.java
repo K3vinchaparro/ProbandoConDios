@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ELITE BOOK
+ * @author ELITE BOOK, Rubén Fúquene
  */
 public class Dardo {    
     private static Scanner sc;
